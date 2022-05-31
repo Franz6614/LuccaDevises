@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Convertor": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\dev\\test.txt"
+    }
+  }
+}
